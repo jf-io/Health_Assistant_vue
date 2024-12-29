@@ -1,4 +1,4 @@
-# Health_Assistant_vue
+# Health_Assistant_vue /健康助手
 
 This template should help get you started developing with Vue 3 in Vite.
 
